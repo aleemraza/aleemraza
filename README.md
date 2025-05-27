@@ -1,6 +1,10 @@
 # Hi there, I'm Muhammad Aleem Raza! 👋
 
 <div align="center">
+  <img width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Coding" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Engineer;Computer+Vision+Specialist;AI+Researcher;MERN+Stack+Expert" alt="Typing SVG" />
 </div>
 
@@ -103,17 +107,70 @@ I'm a passionate **Data Scientist** and **Full-Stack Developer** specializing in
 
 ---
 
-## 🎥 YouTube Content - CodingBrain
+## 🎥 YouTube Channel - Coding Brain
 
-I create educational content on Machine Learning and Full-Stack Development:
+<div align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="YouTube Creator" />
+</div>
 
-**🔥 Popular Videos:**
-- [Loan Prediction Analysis | Machine Learning | Python](https://youtu.be/vvB3Tf_pCNY)
-- [Heart Disease Prediction using ML with Python](https://youtu.be/JOZqS4Uh3g4)
-- [3-Disease Prediction Web App | Django ML](https://youtu.be/8txZuf8b3_k)
-- [Django ML Flower Prediction App](https://youtu.be/8T_LeqZcl98)
+### 📺 About My Channel
 
-**📺 [Subscribe to CodingBrain](https://www.youtube.com/@codingbrain) for more tutorials!**
+**Programming With Coding Brain** is a place where you can learn various concepts related to programming for **FREE**! 🚀
+
+> *"Coding Brain is a beginner-friendly place for you to start with your coding journey. I will hold your hands and walk you through various concepts of programming in a very friendly manner."*
+
+<div align="center">
+
+![YouTube Channel Subscribers](https://img.shields.io/badge/Subscribers-953-red?style=for-the-badge&logo=youtube)
+![YouTube Channel Videos](https://img.shields.io/badge/Videos-99-red?style=for-the-badge&logo=youtube)
+
+</div>
+
+### 🔥 Most Popular Videos (1K+ Views)
+
+| Video Title | Views | Category |
+|-------------|-------|----------|
+| 🎯 [Activating Autocomplete in Anaconda](https://youtu.be/autocomplete) | 4.1K | Development Setup |
+| 🤖 [Create Rule based Chat bot With Python](https://youtu.be/chatbot) | 3.8K | AI/ML |
+| 🌐 [Display User Input HTML Form using JavaScript](https://youtu.be/htmlform) | 2.2K | Web Development |
+| 🏥 [3-Disease Prediction using ML, Python, Django](https://youtu.be/8txZuf8b3_k) | 1.5K | Machine Learning |
+| 💰 [Loan Prediction Analysis \| Machine Learning](https://youtu.be/vvB3Tf_pCNY) | 1.3K | Data Science |
+| ❤️ [Heart Disease Prediction using ML with Python](https://youtu.be/JOZqS4Uh3g4) | 1.1K | Healthcare AI |
+
+### 🎬 Recent Content Highlights
+
+**🚀 Latest Projects:**
+- **Handwritten Digit Recognition** - Deep Learning with MNIST Dataset
+- **MERN Stack Job Portal** - Full-stack web application
+- **Customer Complaint Management System** - MERN stack project
+- **Travel Booking Website** - Complete MERN stack tutorial
+
+**💡 Popular Topics I Cover:**
+- 🐍 **Python Programming** & Data Science
+- ⚛️ **MERN Stack Development** (MongoDB, Express, React, Node.js)
+- 🤖 **Machine Learning** & AI Projects
+- 🧠 **Deep Learning** with TensorFlow & Keras
+- 🌐 **Web Development** Tutorials
+- 📊 **Data Analysis** & Visualization
+
+### 🎯 Channel Highlights
+
+```
+📈 Channel Stats:
+├── 📺 99 Videos Published
+├── 👥 953 Subscribers
+├── 🎬 Covers: ML, Web Dev, AI, Data Science
+├── 🎯 Target: Beginner to Advanced
+└── 📚 Free Programming Education
+```
+
+<div align="center">
+
+**🔔 [Subscribe to Coding Brain](https://www.youtube.com/@codingbrain) for FREE Programming Tutorials!**
+
+[![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codingbrain)
+
+</div>
 
 ---
 
@@ -160,15 +217,51 @@ I create educational content on Machine Learning and Full-Stack Development:
 
 ---
 
+## 🌍 Languages
+
+<div align="center">
+
+| Language | Proficiency | Icon |
+|----------|-------------|------|
+| ![English](https://img.shields.io/badge/English-Full%20Professional-blue?style=flat-square) | Full Professional Proficiency | 🇺🇸 |
+| ![Urdu](https://img.shields.io/badge/Urdu-Native-green?style=flat-square) | Native Speaker | 🇵🇰 |
+| ![Hindi](https://img.shields.io/badge/Hindi-Conversational-orange?style=flat-square) | Conversational | 🇮🇳 |
+
+</div>
+
+---
+
 ## 🤝 Let's Connect!
 
 <div align="center">
 
+### 🌐 Find Me Across The Web
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codingbrain)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-aleem-raza-7ab721205)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/malik12345)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aleemraza.github.io/myportfolio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleemraza661@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/aleemraza)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleemraza)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/aleemraza.ali)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/malik_aleem_raza)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@aleemmalik3031)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Aleem08323063)
+
+</div>
+
+### 📬 Contact Information
+
+<div align="center">
+
+| Platform | Handle | Purpose |
+|----------|--------|---------|
+| 📧 **Email** | aleemraza661@gmail.com | Professional Inquiries |
+| 💼 **LinkedIn** | malik-aleem-raza-7ab721205 | Professional Networking |
+| 🎬 **YouTube** | @codingbrain | Educational Content |
+| 📊 **Kaggle** | malik12345 | Data Science Competitions |
+| 🌐 **Portfolio** | aleemraza.github.io/myportfolio | Projects Showcase |
 
 </div>
 
@@ -183,10 +276,16 @@ I create educational content on Machine Learning and Full-Stack Development:
 - 🎮 Love building interactive web applications
 - 🔬 Passionate about solving real-world problems with AI
 
+<div align="center">
+  <img width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding setup" />
+</div>
+
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Programmer working" />
   
   **Thanks for visiting! Feel free to reach out for collaborations or just a tech chat! 🚀**
   
