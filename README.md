@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Engineer;Computer+Vision+Specialist;AI+Researcher;MERN+Stack+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=PhD+Scholar+in+Computer+Science;Quantum+Cloud+Computing+Researcher;IoT+Sensing+and+LLM+Engineer;AI+Researcher;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -17,16 +17,19 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Data Scientist** and **Full-Stack Developer** specializing in computer vision and machine learning. Currently pursuing **MPhil in IT** from Lahore Leads University with a focus on cutting-edge AI technologies.
+I'm a passionate **AI Engineer, Researcher, and Full-Stack Developer** with strong interests in **Quantum Cloud Computing, IoT Sensing, Large Language Models (LLMs), Machine Learning, and Computer Vision**.
 
-- 🔬 **AI Researcher** with published papers in prestigious journals
-- 💼 **Web Developer** at DeveloperTag
-- 🎯 **Freelance Data Scientist** on Fiverr since 2019
+Currently, I am starting my **PhD in Computer Science**, where my research focuses on the intersection of **Quantum Cloud Computing**, **IoT sensing systems**, and **LLM-powered intelligent architectures**.
+
+- 🎓 Starting **PhD in Computer Science**
+- 🔬 Working on **Quantum Cloud Computing, IoT Sensing, and LLMs**
+- 🤖 **AI Researcher** with interests in intelligent systems, machine learning, and emerging technologies
+- 💻 **Full-Stack Developer** with practical expertise in **Python, MERN Stack, and modern web technologies**
 - 📍 Based in **Lahore, Punjab, Pakistan**
-- 🌱 Currently exploring advanced **Computer Vision** and **Deep Learning** techniques
-- 💡 Always enthusiastic about collaborating on exciting **AI/ML projects**
+- 🌱 Continuously building skills in **AI, quantum computing, and next-generation intelligent systems**
+- 💡 Open to collaboration in **AI, Quantum Computing, IoT, and interdisciplinary research projects**
 
-> *"I am in the process of becoming the best version of myself... I plan but اللہ پاک Decides"*
+> *"I am in the process of becoming the best version of myself... I plan but Allah decides."*
 
 ---
 
@@ -195,11 +198,12 @@ I'm a passionate **Data Scientist** and **Full-Stack Developer** specializing in
 
 ## 🌟 Skills Highlights
 
-### 🤖 Machine Learning & AI
+### 🤖 Machine Learning, Quantum AI & Intelligent Systems
 - **Computer Vision**: Object Detection, Image Classification, Tracking
 - **Deep Learning**: CNN, RNN, LSTM, Transfer Learning
-- **Medical AI**: ECG Analysis, Disease Prediction
-- **Research**: Published papers in peer-reviewed journals
+- **LLMs & AI Systems**: Prompt-based systems, intelligent workflows, and applied AI solutions
+- **Quantum Research**: Quantum Cloud Computing and hybrid intelligent computing systems
+- **IoT Sensing**: Smart sensing systems, connected devices, and context-aware architectures
 
 ### 💻 Full-Stack Development
 - **MERN Stack**: MongoDB, Express.js, React, Node.js
@@ -272,7 +276,7 @@ I'm a passionate **Data Scientist** and **Full-Stack Developer** specializing in
 - 🎯 **Open to work** in Data Science Specialist roles
 - 🌙 I'm a night owl - most productive coding happens after 11 PM
 - ☕ Tea & Code is my daily ritual
-- 📚 Currently advancing my skills in **Advanced Computer Vision**
+- 📚 Currently focused on **Quantum Cloud Computing, IoT sensing, and LLM-based intelligent systems**
 - 🎮 Love building interactive web applications
 - 🔬 Passionate about solving real-world problems with AI
 
